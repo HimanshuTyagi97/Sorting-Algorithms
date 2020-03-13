@@ -34,7 +34,7 @@ function setup() {
     arr = randomArray(elementCount, 1, 50);
     calculateArray(arrayExt(arr));
     k = 0;
-    frameRate(25);  //Change the framerate off your Application
+    frameRate(25);  //Change the framerate of your Application
     drawingStatus = false;
     loopStatus = "noLoop";
 }
